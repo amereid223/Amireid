@@ -1,0 +1,2 @@
+# Amireid
+Termux 
