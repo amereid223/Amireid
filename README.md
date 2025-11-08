@@ -1,2 +1,1 @@
-# Amireid
-Termux 
+# مشروع Amir Eid الرائع
